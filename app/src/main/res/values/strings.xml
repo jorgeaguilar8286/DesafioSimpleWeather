@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+    <string name="ciudad">CIUDAD</string>
+    <string name="fecha">fecha</string>
+    <string name="temperatura">temperatura</string>
+    <string name="unidad_medida" />
+</resources>
